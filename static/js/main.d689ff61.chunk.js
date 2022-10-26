@@ -698,7 +698,7 @@
                     }).MUTIL_LIQUIDITY,
                     Ne),
                 Be =
-                (new D.j(D.a.MAINNET, Ne, 6, "PFI", "PFI"),
+                (new D.j(D.a.MAINNET, Ne, 6, "HAPPY", "HAPPY"),
                     new D.j(D.a.MAINNET, "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3", 18, "DAI", "Dai Stablecoin")),
                 Pe = new D.j(D.a.MAINNET, "0xe9e7cea3dedca5984780bafc599bd69add087d56", 18, "BUSD", "Binance USD"),
                 De = new D.j(D.a.MAINNET, "0x55d398326f99059ff775485246999027b3197955", 18, "USDT", "Tether USD"),
